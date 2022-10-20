@@ -1,9 +1,9 @@
 # ipset
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/nadoo/ipset?style=flat-square)](https://goreportcard.com/report/github.com/nadoo/ipset)
-[![GitHub tag](https://img.shields.io/github/v/tag/nadoo/ipset.svg?sort=semver&style=flat-square)](https://github.com/nadoo/ipset/releases)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/nadoo/ipset)](https://pkg.go.dev/github.com/nadoo/ipset)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/nadoo/ipset?style=flat-square)](https://go.dev/dl/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zhfreal/ipset?style=flat-square)](https://goreportcard.com/report/github.com/zhfreal/ipset)
+[![GitHub tag](https://img.shields.io/github/v/tag/zhfreal/ipset.svg?sort=semver&style=flat-square)](https://github.com/zhfreal/ipset/releases)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/zhfreal/ipset)](https://pkg.go.dev/github.com/zhfreal/ipset)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/zhfreal/ipset?style=flat-square)](https://go.dev/dl/)
 
 netlink ipset package for Go.
 
@@ -16,7 +16,7 @@ package main
 import (
 	"log"
 
-	"github.com/nadoo/ipset"
+	"github.com/zhfreal/ipset"
 )
 
 func main() {
@@ -75,4 +75,4 @@ Members:
 
 ## Links
 
-- [glider](https://github.com/nadoo/glider): a forward proxy with ipset management features powered by this package.
+- [glider](https://github.com/zhfreal/glider): a forward proxy with ipset management features powered by this package.
